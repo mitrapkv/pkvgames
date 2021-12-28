@@ -171,18 +171,18 @@
 }
 @keyframes loading-text {
   1% {
-    content: "";
+    content: "CONNECTING";
   }
   10% {
     content: "CONNECTING";
   }
-  20% {
-    content: "CONNECTING";
+  15% {
+    content: "VERIFYING";
   }
-  45% {
-    content: "LOADING";
+  25% {
+    content: "VERIFY OK";
   }
-  50% {
+  35% {
     content: "LOADING";
   }
   50% {
