@@ -180,7 +180,7 @@
     content: "VERIFYING";
   }
   25% {
-    content: "VERIFY OK";
+    content: "VERIFIED";
   }
   35% {
     content: "LOADING";
