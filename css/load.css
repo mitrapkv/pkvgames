@@ -179,10 +179,10 @@
   15% {
     content: "VERIFYING";
   }
-  25% {
+  35% {
     content: "VERIFIED";
   }
-  35% {
+  40% {
     content: "LOADING";
   }
   50% {
